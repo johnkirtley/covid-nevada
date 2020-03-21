@@ -1,0 +1,17 @@
+.nav-container {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	background-color: lightblue;
+
+	a {
+		text-decoration: none;
+		color: black;
+		padding: 2% 0;
+		font-size: 1.5rem;
+
+		li {
+			list-style: none;
+		}
+	}
+}
